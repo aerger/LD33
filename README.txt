@@ -18,3 +18,19 @@ Baby blobs will grow. You won't control them directly? Hoping to keep them follo
 Any feedback appreciated over the course of the weekend!  Hit me up at @alexfalkenberg on twitter!
 
 Enjoy!
+
+
+TOOLS USED:
+-----------
+Construct 2
+Photoshop
+Sublime Text
+Chrome
+Github
+Krita
+Twitch.TV
+Chatty
+Wordpress
+WinSCP
+
+
