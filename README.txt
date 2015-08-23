@@ -1,6 +1,6 @@
 // README.txt
 
-LD33 - "YOU ARE THE MONSTER"
+LD33 - THEME: "YOU ARE THE MONSTER"
 ----------------------------
 
 Placeholder for README.txt
